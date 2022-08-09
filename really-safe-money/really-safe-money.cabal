@@ -9,7 +9,7 @@ version:        0.0.0.0
 description:    Please see the README on GitHub at <https://github.com/NorfairKing/really-safe-money#readme>
 homepage:       https://github.com/NorfairKing/really-safe-money#readme
 bug-reports:    https://github.com/NorfairKing/really-safe-money/issues
-license:        AllRightsReserved
+license:        BSD-3-Clause
 build-type:     Simple
 
 source-repository head
